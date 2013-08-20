@@ -62,8 +62,16 @@
     <Build Include="patient.sql" />
     <Build Include="appointment.sql" />
     <Build Include="doctor.sql" />
+    <Build Include="persistappointment.sql" />
+    <Build Include="newpatient.sql" />
+    <Build Include="viewpatient.sql" />
+    <Build Include="viewappointment.sql" />
+    <Build Include="viewdoctor.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="Database1.refactorlog" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Database1.publish.xml" />
   </ItemGroup>
 </Project>

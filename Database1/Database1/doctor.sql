@@ -4,6 +4,6 @@
     [name] NVARCHAR(50) NOT NULL, 
     [charge] MONEY NOT NULL, 
     [dep] NVARCHAR(50) NOT NULL, 
-    [desc] NVARCHAR(MAX) NOT NULL, 
+    [desc] NVARCHAR(MAX) NULL, 
     [sex] NCHAR(10) NOT NULL
 )

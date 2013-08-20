@@ -2,7 +2,7 @@
 (
 	[anum] INT NOT NULL PRIMARY KEY, 
     [timings] DATETIME NOT NULL, 
-    [daignosis] VARCHAR(MAX) NULL, 
+    [daignosis] NVARCHAR(MAX) NULL, 
     [nextmeet] DATETIME NULL, 
     [charge] INT NOT NULL, 
     [did] INT NOT NULL

@@ -7,6 +7,6 @@
     [age] INT NOT NULL, 
     [did] INT NOT NULL, 
     [anum] INT NOT NULL, 
-    CONSTRAINT [dbo.patient] FOREIGN KEY ([anum]) REFERENCES [appointment]([anum]), 
-    CONSTRAINT [dbo.patient] FOREIGN KEY ([did]) REFERENCES [doctor]([did])
+    CONSTRAINT [dbo.appointment] FOREIGN KEY ([anum]) REFERENCES [appointment]([anum]), 
+    CONSTRAINT [dbo.doctor] FOREIGN KEY ([did]) REFERENCES [doctor]([did])
 )
