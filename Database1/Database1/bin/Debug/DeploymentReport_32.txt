@@ -1,0 +1,38 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[appointment] (Table)
+       [dbo].[doctor] (Table)
+       [dbo].[patient] (Table)
+       [dbo].[prescription] (Table)
+       [dbo].[fk_appointmenttodoctor] (Foreign Key)
+       [dbo].[fk_patienttodoctor] (Foreign Key)
+       [dbo].[fk_prescription_doctor] (Foreign Key)
+       [dbo].[Function12] (Function)
+       [dbo].[function13] (Function)
+       [dbo].[view_doc_rev_grp] (View)
+       [dbo].[view_doc_revenue] (View)
+       [dbo].[view_prescription] (View)
+       [dbo].[viewappointment] (View)
+       [dbo].[viewdoctor] (View)
+       [dbo].[viewpatient] (View)
+       [dbo].[newpatient] (Procedure)
+       [dbo].[persistappointment] (Procedure)
+       [dbo].[persistprescription] (Procedure)
+       [dbo].[rm_appointment] (Procedure)
+       [dbo].[rm_patient] (Procedure)
+       [dbo].[rm_prescription] (Procedure)
+       [dbo].[up_appointment] (Procedure)
+       [dbo].[up_patient] (Procedure)
+       [dbo].[up_prescription] (Procedure)
+
+** Supporting actions

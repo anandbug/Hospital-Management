@@ -62,11 +62,26 @@
     <Build Include="patient.sql" />
     <Build Include="appointment.sql" />
     <Build Include="doctor.sql" />
-    <Build Include="persistappointment.sql" />
-    <Build Include="newpatient.sql" />
-    <Build Include="viewpatient.sql" />
-    <Build Include="viewappointment.sql" />
-    <Build Include="viewdoctor.sql" />
+    <Build Include="persist_appointment.sql" />
+    <Build Include="new_patient.sql" />
+    <Build Include="view_patient.sql" />
+    <Build Include="view_doctor.sql" />
+    <Build Include="prescription.sql" />
+    <Build Include="persist_prescription.sql" />
+    <Build Include="rm_appointment.sql" />
+    <Build Include="rm_prescription.sql" />
+    <Build Include="rm_patient.sql" />
+    <Build Include="view_prescription.sql" />
+    <Build Include="up_appointment.sql" />
+    <Build Include="up_prescription.sql" />
+    <Build Include="up_patient.sql" />
+    <Build Include="view_doc_rev.sql" />
+    <Build Include="view_doc_rev_grp.sql" />
+    <Build Include="Function12.sql" />
+    <Build Include="Function13.sql" />
+    <Build Include="view_appointment_by_day.sql" />
+    <Build Include="Function14m.sql" />
+    <Build Include="Function14d.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="Database1.refactorlog" />
@@ -74,4 +89,10 @@
   <ItemGroup>
     <None Include="Database1.publish.xml" />
   </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="PostDeploy.sql" />
+  </ItemGroup>
+  <PropertyGroup>
+    <PostBuildEvent>:r .\PostDeploy.sql</PostBuildEvent>
+  </PropertyGroup>
 </Project>

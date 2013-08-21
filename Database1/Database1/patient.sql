@@ -6,7 +6,5 @@
     [address] NVARCHAR(50) NOT NULL, 
     [age] INT NOT NULL, 
     [did] INT NOT NULL, 
-    [anum] INT NOT NULL, 
-    CONSTRAINT [dbo.appointment] FOREIGN KEY ([anum]) REFERENCES [appointment]([anum]), 
-    CONSTRAINT [dbo.doctor] FOREIGN KEY ([did]) REFERENCES [doctor]([did])
+    CONSTRAINT [fk_patienttodoctor] FOREIGN KEY ([did]) REFERENCES [doctor]([did])
 )
