@@ -1,0 +1,76 @@
+05-09-2013 12.46.34 AM	This log contains information about the import schema operation into project 'Database1' on computer 'WIN-HF617AJ8KPI' by user 'Anand kumar'.
+05-09-2013 12.46.35 AM	Import of database schema has started.
+05-09-2013 12.46.48 AM	Gathering database options
+05-09-2013 12.46.48 AM	Gathering users
+05-09-2013 12.46.48 AM	Gathering roles
+05-09-2013 12.46.48 AM	Gathering application roles
+05-09-2013 12.46.48 AM	Gathering role memberships
+05-09-2013 12.46.48 AM	Gathering filegroups
+05-09-2013 12.46.48 AM	Gathering full-text catalogs
+05-09-2013 12.46.48 AM	Gathering assemblies
+05-09-2013 12.46.48 AM	Gathering certificates
+05-09-2013 12.46.48 AM	Gathering asymmetric keys
+05-09-2013 12.46.48 AM	Gathering symmetric keys
+05-09-2013 12.46.48 AM	Gathering encrypted symmetric keys
+05-09-2013 12.46.48 AM	Gathering schemas
+05-09-2013 12.46.52 AM	Gathering XML schema collections
+05-09-2013 12.46.52 AM	Gathering user-defined data types
+05-09-2013 12.46.52 AM	Gathering user-defined types
+05-09-2013 12.46.52 AM	Gathering table types
+05-09-2013 12.46.52 AM	Gathering unique keys for table types
+05-09-2013 12.46.52 AM	Gathering primary keys for table types
+05-09-2013 12.46.52 AM	Gathering check constraints for table types
+05-09-2013 12.46.52 AM	Gathering default constraints for table types
+05-09-2013 12.46.52 AM	Gathering partition functions
+05-09-2013 12.46.52 AM	Gathering partition schemes
+05-09-2013 12.46.52 AM	Gathering functions
+05-09-2013 12.46.52 AM	Gathering encrypted functions
+05-09-2013 12.46.52 AM	Gathering aggregates
+05-09-2013 12.46.52 AM	Gathering procedures
+05-09-2013 12.46.52 AM	Gathering encrypted procedures
+05-09-2013 12.46.52 AM	Gathering tables
+05-09-2013 12.46.53 AM	Gathering primary keys
+05-09-2013 12.46.53 AM	Gathering unique constraints
+05-09-2013 12.46.53 AM	Gathering foreign keys
+05-09-2013 12.46.53 AM	Gathering default constraints
+05-09-2013 12.46.53 AM	Gathering check constraints
+05-09-2013 12.46.53 AM	Gathering views
+05-09-2013 12.46.53 AM	Gathering encrypted views
+05-09-2013 12.46.53 AM	Gathering indexes
+05-09-2013 12.46.53 AM	Gathering statistics
+05-09-2013 12.46.53 AM	Gathering full-text index stoplists
+05-09-2013 12.46.53 AM	Gathering search property lists
+05-09-2013 12.46.53 AM	Gathering search properties
+05-09-2013 12.46.53 AM	Gathering full-text indexes
+05-09-2013 12.46.53 AM	Gathering column store indexes
+05-09-2013 12.46.53 AM	Gathering spatial indexes
+05-09-2013 12.46.53 AM	Gathering XML indexes
+05-09-2013 12.46.53 AM	Gathering Selective XML indexes
+05-09-2013 12.46.53 AM	Gathering encrypted triggers
+05-09-2013 12.46.53 AM	Gathering triggers
+05-09-2013 12.46.53 AM	Gathering encrypted and clr ddl triggers
+05-09-2013 12.46.53 AM	Gathering ddl triggers
+05-09-2013 12.46.53 AM	Gathering synonyms
+05-09-2013 12.46.53 AM	Gathering defaults
+05-09-2013 12.46.53 AM	Gathering data constraint uddt bindings
+05-09-2013 12.46.53 AM	Gathering rules
+05-09-2013 12.46.53 AM	Gathering data constraint uddt bindings
+05-09-2013 12.46.53 AM	Gathering message types
+05-09-2013 12.46.53 AM	Gathering queues
+05-09-2013 12.46.53 AM	Gathering contracts
+05-09-2013 12.46.53 AM	Gathering services
+05-09-2013 12.46.53 AM	Gathering event notifications
+05-09-2013 12.46.53 AM	Gathering remote service bindings
+05-09-2013 12.46.53 AM	Gathering broker priorities
+05-09-2013 12.46.53 AM	Gathering signatures
+05-09-2013 12.46.53 AM	Gathering data compression options
+05-09-2013 12.46.53 AM	Gathering sequence types
+05-09-2013 12.46.53 AM	Gathering extended properties
+05-09-2013 12.46.53 AM	Gathering credentials
+05-09-2013 12.46.53 AM	Gathering logins
+05-09-2013 12.46.53 AM	Gathering server audits
+05-09-2013 12.46.54 AM	Scanning project for duplicate elements
+05-09-2013 12.46.54 AM	Finished duplicate element processing
+05-09-2013 12.46.54 AM	Finished importing database.
+05-09-2013 12.46.54 AM	A summary of the import was saved to the following location: C:\Users\Anand kumar\Documents\Visual Studio 2012\Projects\Database1\Import Schema Logs\Database1_20130904071634.log
+05-09-2013 12.46.54 AM	Click Finish to continue...
