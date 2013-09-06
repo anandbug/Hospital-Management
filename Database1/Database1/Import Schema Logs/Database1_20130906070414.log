@@ -1,0 +1,77 @@
+07-09-2013 12.34.14 AM	This log contains information about the import schema operation into project 'Database1' on computer 'WIN-HF617AJ8KPI' by user 'Anand kumar'.
+07-09-2013 12.34.14 AM	Import of database schema has started.
+07-09-2013 12.34.24 AM	Gathering database options
+07-09-2013 12.34.24 AM	Gathering users
+07-09-2013 12.34.24 AM	Gathering roles
+07-09-2013 12.34.24 AM	Gathering application roles
+07-09-2013 12.34.24 AM	Gathering role memberships
+07-09-2013 12.34.24 AM	Gathering filegroups
+07-09-2013 12.34.24 AM	Gathering full-text catalogs
+07-09-2013 12.34.24 AM	Gathering assemblies
+07-09-2013 12.34.24 AM	Gathering certificates
+07-09-2013 12.34.24 AM	Gathering asymmetric keys
+07-09-2013 12.34.24 AM	Gathering symmetric keys
+07-09-2013 12.34.24 AM	Gathering encrypted symmetric keys
+07-09-2013 12.34.24 AM	Gathering schemas
+07-09-2013 12.34.24 AM	Gathering XML schema collections
+07-09-2013 12.34.24 AM	Gathering user-defined data types
+07-09-2013 12.34.24 AM	Gathering user-defined types
+07-09-2013 12.34.24 AM	Gathering table types
+07-09-2013 12.34.24 AM	Gathering unique keys for table types
+07-09-2013 12.34.24 AM	Gathering primary keys for table types
+07-09-2013 12.34.24 AM	Gathering check constraints for table types
+07-09-2013 12.34.24 AM	Gathering default constraints for table types
+07-09-2013 12.34.24 AM	Gathering partition functions
+07-09-2013 12.34.24 AM	Gathering partition schemes
+07-09-2013 12.34.24 AM	Gathering functions
+07-09-2013 12.34.24 AM	Gathering encrypted functions
+07-09-2013 12.34.24 AM	Gathering aggregates
+07-09-2013 12.34.24 AM	Gathering procedures
+07-09-2013 12.34.24 AM	Gathering encrypted procedures
+07-09-2013 12.34.24 AM	Gathering tables
+07-09-2013 12.34.24 AM	Gathering primary keys
+07-09-2013 12.34.24 AM	Gathering unique constraints
+07-09-2013 12.34.24 AM	Gathering foreign keys
+07-09-2013 12.34.24 AM	Gathering default constraints
+07-09-2013 12.34.24 AM	Gathering check constraints
+07-09-2013 12.34.24 AM	Gathering views
+07-09-2013 12.34.24 AM	Gathering encrypted views
+07-09-2013 12.34.24 AM	Gathering indexes
+07-09-2013 12.34.24 AM	Gathering statistics
+07-09-2013 12.34.24 AM	Gathering full-text index stoplists
+07-09-2013 12.34.24 AM	Gathering search property lists
+07-09-2013 12.34.24 AM	Gathering search properties
+07-09-2013 12.34.24 AM	Gathering full-text indexes
+07-09-2013 12.34.24 AM	Gathering column store indexes
+07-09-2013 12.34.24 AM	Gathering spatial indexes
+07-09-2013 12.34.24 AM	Gathering XML indexes
+07-09-2013 12.34.24 AM	Gathering Selective XML indexes
+07-09-2013 12.34.25 AM	Gathering encrypted triggers
+07-09-2013 12.34.25 AM	Gathering triggers
+07-09-2013 12.34.25 AM	Gathering encrypted and clr ddl triggers
+07-09-2013 12.34.25 AM	Gathering ddl triggers
+07-09-2013 12.34.25 AM	Gathering synonyms
+07-09-2013 12.34.25 AM	Gathering defaults
+07-09-2013 12.34.25 AM	Gathering data constraint uddt bindings
+07-09-2013 12.34.25 AM	Gathering rules
+07-09-2013 12.34.25 AM	Gathering data constraint uddt bindings
+07-09-2013 12.34.25 AM	Gathering message types
+07-09-2013 12.34.25 AM	Gathering queues
+07-09-2013 12.34.25 AM	Gathering contracts
+07-09-2013 12.34.25 AM	Gathering services
+07-09-2013 12.34.25 AM	Gathering event notifications
+07-09-2013 12.34.25 AM	Gathering remote service bindings
+07-09-2013 12.34.25 AM	Gathering broker priorities
+07-09-2013 12.34.25 AM	Gathering signatures
+07-09-2013 12.34.25 AM	Gathering data compression options
+07-09-2013 12.34.25 AM	Gathering sequence types
+07-09-2013 12.34.25 AM	Gathering database permissions
+07-09-2013 12.34.25 AM	Gathering extended properties
+07-09-2013 12.34.25 AM	Gathering credentials
+07-09-2013 12.34.25 AM	Gathering logins
+07-09-2013 12.34.25 AM	Gathering server audits
+07-09-2013 12.34.26 AM	Scanning project for duplicate elements
+07-09-2013 12.34.27 AM	Finished duplicate element processing
+07-09-2013 12.34.27 AM	Finished importing database.
+07-09-2013 12.34.27 AM	A summary of the import was saved to the following location: C:\Users\Anand kumar\Documents\Visual Studio 2012\Projects\Database1\Import Schema Logs\Database1_20130906070414.log
+07-09-2013 12.34.27 AM	Click Finish to continue...

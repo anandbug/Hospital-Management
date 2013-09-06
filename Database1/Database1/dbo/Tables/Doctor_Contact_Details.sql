@@ -9,6 +9,6 @@
     [ModifiedTime] DATETIME       NULL,
     PRIMARY KEY CLUSTERED ([Id] ASC),
     CONSTRAINT [FK_Doctor_Contact_Details_To_Contact_Type] FOREIGN KEY ([Type_id]) REFERENCES [dbo].[Contact_Type] ([Id]),
-    CONSTRAINT [FK_Doctor_Contact_Details_To_Doctor] FOREIGN KEY ([Doctor_id]) REFERENCES [dbo].[Doctor] ([Id])
+    CONSTRAINT [FK_Doctor_Contact_Details_To_Doctor] FOREIGN KEY ([Doctor_id]) REFERENCES [dbo].[Doctor] ([Id]) ON DELETE CASCADE
 );
 

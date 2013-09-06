@@ -7,7 +7,7 @@
     <Name>Database1</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
-    <ProjectGuid>{e435ed1d-a2f1-4681-8e52-3190e302b42f}</ProjectGuid>
+    <ProjectGuid>{d3b87fc6-6857-476a-bf57-20c898aa4e67}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql110DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>

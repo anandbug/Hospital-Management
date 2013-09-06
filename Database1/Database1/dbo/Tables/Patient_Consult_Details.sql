@@ -3,6 +3,7 @@
     [Patient_id]   INT          NOT NULL,
     [Doctor_id]    INT          NOT NULL,
     [ConsultTime]  DATETIME     NOT NULL,
+    [Charge]       INT          NOT NULL,
     [CreatedBy]    VARCHAR (20) NOT NULL,
     [CreatedTime]  DATETIME     DEFAULT (getdate()) NOT NULL,
     [ModifiedBy]   VARCHAR (20) NULL,
